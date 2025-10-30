@@ -40,7 +40,7 @@ Used to test whether the sample mean differs from a known or hypothesized popula
 > Is the average test score greater than 70?
 
 **Hypotheses:**  
-- H₀: μ = 70  
+- H₀: μ <= 70  
 - H₁: μ > 70  
 
 ---
